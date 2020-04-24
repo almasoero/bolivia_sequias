@@ -1,4 +1,4 @@
 numpy==1.16.*
 matplotlib==3.*
 python-dateutil==2.*
-PILLOW==5.*
+PILLOW>=5.*
