@@ -1,0 +1,10 @@
+{
+"DataBase": "/home/sequia/drought/data/STATIONS/SISMET/Siamet.mdb",
+"MaxStartYear": 1990,
+"MinEndYear": 2016,
+"MinDataDens": 0.9,
+"GamparsTableRoot": "stats/Siamet-Gampars",
+"Index_folder": "/home/sequia/drought/products/SPI-Stations",
+"StartMonth4SPI" : 1,
+"StartYear4SPI": 2020
+}

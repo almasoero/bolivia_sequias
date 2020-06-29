@@ -1,0 +1,25 @@
+{
+
+"SoilMoisture_folder": "/home/sequia/drought/data/SMAP/processed/soil_moisture/daily",
+
+"SoilMoisture_prefix": "SMAP-sm-rootzone-wetness",
+
+"Index_folder": "/home/sequia/drought/products/SWDI",
+
+"Stats_folder": "/home/sequia/drought/statistics/SWDI_tmp",
+
+"Geo_folder": "/home/sequia/drought/code/support_geofiles",
+
+"Source_prefix": "SMAP",
+
+"Index_prefix": "SMAP-sm-rootzone-wetness",
+
+"Index2_prefix": "SWDI",
+
+"StartDate": "201504",
+
+"EndDate": "202005",
+
+"Agg_months": [1,2,3,6]
+
+}

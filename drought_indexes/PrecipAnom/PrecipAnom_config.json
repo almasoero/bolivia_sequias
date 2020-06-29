@@ -1,0 +1,21 @@
+{
+
+"Prec_folder": "/home/sequia/drought/data/PERSIANN-MERGE",
+
+"Prec_prefix": "PERSIANN",
+
+"Stats_folder": "/home/sequia/drought/statistics/SPI/",
+
+"Index_folder": "/home/sequia/drought/products/SPI",
+
+"Out_folder": "/home/sequia/drought/products/PrecipAnom",
+
+"Index_prefix": "PrecipAnom",
+
+"StartDate": "198312",
+
+"EndDate": "202004",
+
+"Agg_months": [1,2,3,6,12]
+
+}

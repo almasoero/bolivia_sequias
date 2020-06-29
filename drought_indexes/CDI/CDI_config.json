@@ -1,0 +1,27 @@
+{
+
+"png_dir" : "/home/sequia/drought/png/CDI",
+
+"Products_folder": "/home/sequia/drought/products",
+
+"StartDate": "201506",
+
+"EndDate": "202005",
+
+"INDEX_METEO01":        "SPI",
+"accumulation_METEO01": "01",
+"METEO_threshold01":    -2,
+
+"INDEX_METEO03":        "SPI",
+"accumulation_METEO03": "03",
+"METEO_threshold03":    -1,
+
+"INDEX_HUM":            "SWDI",
+"accumulation_HUM":     "01",
+"HUM_threshold":        -1,
+
+"INDEX_VEG":            "FAPAR",
+"accumulation_VEG":     "01",
+"VEG_threshold":        -1
+
+}

@@ -1,0 +1,2 @@
+source library_env_python3
+python HYDE_DynamicData_DroughtIndex_SSPI.py -settings_file hyde_configuration_drought_index_sspi_server_realtime.json -time '2018-09-11 04:33'
