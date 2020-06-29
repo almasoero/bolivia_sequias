@@ -1,3 +1,0 @@
-PATH=/home/sequia/hyde_env/fp_libs_python3//bin:$PATH
-export PATH
-source activate virtualenv_python3
