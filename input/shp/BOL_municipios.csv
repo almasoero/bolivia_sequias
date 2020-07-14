@@ -1,0 +1,340 @@
+id,CODIGO,OBJECTID,NOM_DEP,NOM_PROV,NOM_MUN,COD1_SECC,Nro,POBLACION,VIVIENDA
+"0","030303","1",Cochabamba,Ayopaya,Cocapata,"30303","123",18076,4920
+"1","030901","2",Cochabamba,Quillacollo,Quillacollo,"30901","138",137182,35931
+"2","030302","3",Cochabamba,Ayopaya,Morochata,"30302","122",12797,3936
+"3","030301","4",Cochabamba,Ayopaya,Independencia,"30301","121",23658,7347
+"4","031002","5",Cochabamba,Chapare,Colomi,"31002","144",19285,6022
+"5","031001","6",Cochabamba,Chapare,Sacaba,"31001","143",172466,47536
+"6","030903","7",Cochabamba,Quillacollo,Tiquipaya,"30903","140",53904,13857
+"7","030905","8",Cochabamba,Quillacollo,Colcapirhua,"30905","142",51990,13514
+"8","030902","9",Cochabamba,Quillacollo,Sipe Sipe,"30902","139",41571,11603
+"9","030904","10",Cochabamba,Quillacollo,Vinto,"30904","141",51968,14312
+"10","060202","11",Tarija,Arce,Bermejo,"60202","241",34505,9012
+"11","051003","12",Potosi,Sur Lipez,San Antonio de Esmoruco,"51003","226",2284,715
+"12","060401","13",Tarija,Avilez,Uriondo,"60401","245",14781,4162
+"13","051501","14",Potosi,Modesto Omiste,Villazón,"51501","237",44906,12074
+"14","051002","15",Potosi,Sur Lipez,Mojinete,"51002","225",1180,358
+"15","060301","16",Tarija,Gran Chaco,Yacuiba,"60301","242",92245,22138
+"16","060402","17",Tarija,Avilez,Yunchara,"60402","246",5490,1484
+"17","060201","18",Tarija,Arce,Padcaya,"60201","240",18681,5090
+"18","060302","19",Tarija,Gran Chaco,Caraparí,"60302","243",15366,3995
+"19","060101","20",Tarija,Cercado,Tarija,"60101","239",205375,54926
+"20","060501","21",Tarija,Mendez,Villa San Lorenzo,"60501","247",23863,6484
+"21","060502","22",Tarija,Mendez,Tomayapo (El Puente),"60502","248",11354,3453
+"22","051601","23",Potosi,Enrique Baldivieso,San Agustín,"51601","238",1684,489
+"23","051001","24",Potosi,Sur Lipez,San Pablo de Lipez,"51001","224",3371,871
+"24","010903","25",Chuquisaca,Sur Cinti,Las Carretas,"10903","26",4088,1062
+"25","050801","26",Potosi,Sur Chichas,Tupiza,"50801","220",44814,13319
+"26","010901","27",Chuquisaca,Sur Cinti,Villa Abecia,"10901","24",3514,965
+"27","060601","28",Tarija,Burnet O'Connor,Entre Rios (La Moreta),"60601","249",21991,5415
+"28","050602","29",Potosi,Nor Chichas,Vitichi,"50602","217",10646,3124
+"29","070901","248",Santa Cruz,Florida,Samaipata,"70901","282",10472,3099
+"30","021801","249",La Paz,Gualberto Villarroe,San Pedro de Curahuara,"21801","110",8858,2828
+"31","030703","250",Cochabamba,Capinota,Sicaya,"30703","134",3740,1083
+"32","030701","251",Cochabamba,Capinota,Capinota,"30701","132",19477,5928
+"33","030601","252",Cochabamba,Arque,Arque,"30601","130",10597,3303
+"34","021601","413",La Paz,Bautista Saavedra,Charazani (Gral.Perez),"21601","105",13023,3550
+"35","021602","414",La Paz,Bautista Saavedra,Curva,"21602","106",3285,982
+"36","020702","415",La Paz,Franz Tamayo,Pelechuco,"20702","66",6780,2230
+"37","021104","416",La Paz,Sur Yungas,Palos Blancos,"21104","88",24731,9246
+"38","050902","113",Potosi,Nor Lipez,San Pedro de Quemes,"50902","223",1060,372
+"39","051402","114",Potosi,Daniel Campos,Tahua,"51402","236",1700,679
+"40","071101","428",Santa Cruz,Ñuflo De Chavez,Concepción,"71101","291",18800,4261
+"41","070301","429",Santa Cruz,Velasco,San Ignacio de Velasco,"70301","257",52362,2582
+"42","071501","430",Santa Cruz,Guarayos,Ascención de Guarayos,"71501","303",27070,5521
+"43","080802","431",Beni,Itenez,Baures,"80802","323",5965,1356
+"44","080803","432",Beni,Itenez,Huacaraje,"80803","324",4111,819
+"45","080801","433",Beni,Itenez,Magdalena,"80801","322",11377,2232
+"46","020701","434",La Paz,Franz Tamayo,Apolo,"20701","65",20308,4625
+"47","020405","466",La Paz,Camacho,Escoma,"20405","53",7186,3027
+"48","010201","116",Chuquisaca,Azurduy,Villa Azurduy,"10201","4",10652,2538
+"49","050802","117",Potosi,Sur Chichas,Atocha,"50802","221",11234,3576
+"50","050601","118",Potosi,Nor Chichas,Cotagaita,"50601","216",31801,9471
+"51","050901","119",Potosi,Nor Lipez,"Colcha""K"" (V.Martin)","50901","222",12997,3307
+"52","051102","120",Potosi,Jose Maria Linares,"Caiza ""D""","51102","228",12067,3543
+"53","010202","121",Chuquisaca,Azurduy,Tarvita (Villa Arias),"10202","5",14261,3418
+"54","051202","122",Potosi,Antonio Quijarro,Tomave,"51202","231",14789,5216
+"55","051203","123",Potosi,Antonio Quijarro,Porco,"51203","232",10866,3156
+"56","050302","124",Potosi,Cornelio Saavedra,Chaqui,"50302","208",9910,3222
+"57","051101","125",Potosi,Jose Maria Linares,Puna,"51101","227",21917,7103
+"58","051103","126",Potosi,Jose Maria Linares,Ckochas,"51103","229",15812,3826
+"59","010405","127",Chuquisaca,Tomina,El Villar,"10405","14",4465,1212
+"61","090102","452",Pando,Nicolas Suarez,Porvenir,"90102","326",7848,1655
+"62","090104","453",Pando,Nicolas Suarez,Bella Flor,"90104","328",3909,944
+"63","090202","454",Pando,Manuripi,San Pedro (Conquista),"90202","330",2991,611
+"64","090201","455",Pando,Manuripi,Puerto Rico,"90201","329",6239,1382
+"65","090401","456",Pando,Abuná,Santa Rosa del Abuná,"90401","335",2395,611
+"66","040902","143",Oruro,Sabaya,Coipasa,"40902","187",903,253
+"67","090402","457",Pando,Abuná,Ingavi,"90402","336",1654,344
+"68","080202","458",Beni,Vaca Diez,Guayaramerín,"80202","309",41814,9261
+"69","090502","459",Pando,Federico Roman,Villa Nueva (Loma Alta),"90502","338",2801,589
+"70","090503","460",Pando,Federico Roman,Santos Mercado,"90503","339",2165,466
+"71","090501","461",Pando,Federico Roman,Nuevo Manoa (Nueva Esperanza),"90501","337",2068,466
+"72","020401","469",La Paz,Camacho,Puerto Acosta,"20401","49",11290,5011
+"73","051401","150",Potosi,Daniel Campos,Llica,"51401","235",4150,1504
+"74","011002","151",Chuquisaca,Luis Calvo,Huacaya,"11002","28",2541,603
+"75","060303","152",Tarija,Gran Chaco,Villamontes,"60303","244",39867,10289
+"76","010502","153",Chuquisaca,Hernando Siles,San Pablo de Huacareta,"10502","16",8349,2079
+"77","010501","154",Chuquisaca,Hernando Siles,Monteagudo,"10501","15",24303,6079
+"78","050103","155",Potosi,Tomas Frias,Yocalla,"50103","201",8979,2916
+"79","050101","156",Potosi,Tomas Frias,Potosí,"50101","199",191302,51606
+"80","070701","157",Santa Cruz,Cordillera,Lagunillas,"70701","270",5366,1071
+"81","051201","158",Potosi,Antonio Quijarro,Uyuni (Thola Pampa),"51201","230",29672,9597
+"82","010404","159",Chuquisaca,Tomina,Villa Alcalá,"10404","13",4902,1072
+"83","010403","160",Chuquisaca,Tomina,Sopachuy,"10403","12",7312,2010
+"84","050301","161",Potosi,Cornelio Saavedra,Betanzos,"50301","207",33922,9721
+"85","010304","162",Chuquisaca,Zudañez,Icla (R.Mujia),"10304","9",7774,1831
+"86","040801","163",Oruro,Ladislao Cabrera,Salinas de Garci Mendoza,"40801","184",11878,3927
+"87","050104","164",Potosi,Tomas Frias,Belén de Urmiri,"50104","202",2759,1102
+"88","010102","165",Chuquisaca,Oropeza,Yotala,"10102","2",9461,2646
+"89","010602","166",Chuquisaca,Yamparaez,Yamparáez,"10602","18",10111,2950
+"91","011003","198",Chuquisaca,Luis Calvo,Machareti,"11003","29",7418,1751
+"92","020307","292",La Paz,Pacajes,Nazacara de Pacajes,"20307","47",619,289
+"93","020302","293",La Paz,Pacajes,Caquiaviri,"20302","42",14687,4269
+"94","020901","294",La Paz,Loayza,Luribay,"20901","74",11139,3913
+"95","020904","295",La Paz,Loayza,Malla,"20904","77",5180,1234
+"96","021307","296",La Paz,Aroma,Collana,"21307","100",5042,1272
+"97","041502","168",Oruro,Mejillones,Todos Santos,"41502","196",727,193
+"98","070706","201",Santa Cruz,Cordillera,Camiri,"70706","275",33838,8374
+"99","070801","202",Santa Cruz,Valle Grande,Vallegrande,"70801","277",17208,5275
+"100","070705","203",Santa Cruz,Cordillera,Gutiérrez,"70705","274",12273,2390
+"101","040601","204",Oruro,Poopo,Poopó,"40601","179",7587,2839
+"102","010101","205",Chuquisaca,Oropeza,Sucre,"10101","1",261201,69835
+"103","010302","206",Chuquisaca,Zudañez,Presto,"10302","7",12385,2717
+"104","010103","207",Chuquisaca,Oropeza,Poroma,"10103","3",17377,4895
+"105","050702","208",Potosi,Alonso de Ibañez,Caripuyo,"50702","219",8704,2741
+"107","041201","210",Oruro,Sur Carangas,Santiago de Andamarca,"41201","191",5216,1992
+"109","050501","212",Potosi,Charcas,San Pedro de Buena Vista,"50501","214",30012,8277
+"110","040301","213",Oruro,Carangas,Corque,"40301","170",9221,3172
+"111","050701","214",Potosi,Alonso de Ibañez,Sacaca,"50701","218",19611,5618
+"112","040302","215",Oruro,Carangas,Choquecota,"40302","171",1850,516
+"113","051302","217",Potosi,General Bernardino,Acasio,"51302","234",6161,1719
+"114","050502","218",Potosi,Charcas,Toro Toro,"50502","215",10870,3511
+"115","031302","219",Cochabamba,Mizque,Vila Vila,"31302","154",5459,1540
+"116","041501","169",Oruro,Mejillones,La Rivera,"41501","195",509,181
+"117","040402","220",Oruro,Sajama,Turco,"40402","173",5207,1556
+"118","040701","221",Oruro,Pantaleon Dalence,Villa Huanuni,"40701","182",24667,7189
+"119","040702","222",Oruro,Pantaleon Dalence,Machacamarca,"40702","183",4820,1558
+"120","051301","224",Potosi,General Bernardino,Arampampa,"51301","233",4170,1298
+"121","070804","225",Santa Cruz,Valle Grande,Postrer Valle,"70804","280",2390,600
+"122","020304","297",La Paz,Pacajes,Comanche,"20304","44",3880,1311
+"123","021304","298",La Paz,Aroma,Calamarca,"21304","97",12413,3827
+"124","020902","299",La Paz,Loayza,Sapahaqui,"20902","75",12484,4624
+"125","070202","300",Santa Cruz,Warnes,Okinawa Uno,"70202","256",12482,2560
+"126","070201","301",Santa Cruz,Warnes,Warnes,"70201","255",96406,23218
+"127","071002","302",Santa Cruz,Obispo Santisteban,General Saavedra,"71002","287",14209,3236
+"128","020905","303",La Paz,Loayza,Cairoma,"20905","78",11355,3070
+"129","020801","304",La Paz,Ingavi,Viacha,"20801","67",80724,26248
+"130","071402","305",Santa Cruz,German Busch,Puerto Quijarro,"71402","301",16659,3881
+"131","071401","306",Santa Cruz,German Busch,Puerto Suarez,"71401","300",19829,4554
+"132","071403","307",Santa Cruz,German Busch,Carmen Rivero Torrez,"71403","302",6342,1492
+"133","070503","308",Santa Cruz,Chiquitos,Robore,"70503","266",15641,3747
+"134","021004","309",La Paz,Inquisivi,Colquiri,"21004","82",19620,5830
+"135","041503","170",Oruro,Mejillones,Carangas,"41503","197",840,0
+"136","040903","171",Oruro,Sabaya,Chipaya,"40903","188",2003,590
+"137","040504","172",Oruro,Litoral,Yunguyo del Litoral *,"40504","177",514,169
+"138","031404","230",Cochabamba,Punata,Tacachi,"31404","159",1303,359
+"139","070802","231",Santa Cruz,Valle Grande,Trigal,"70802","278",2135,576
+"140","070904","232",Santa Cruz,Florida,Quirusillas,"70904","285",2995,730
+"141","070703","233",Santa Cruz,Cordillera,Cabezas,"70703","272",26434,5628
+"142","070104","234",Santa Cruz,Andres Ibañez,La Guardia,"70104","253",89284,21314
+"143","031301","235",Cochabamba,Mizque,Mizque,"31301","153",26900,7911
+"144","031303","236",Cochabamba,Mizque,Alalay,"31303","155",3447,1122
+"145","040501","173",Oruro,Litoral,Huachacalla,"40501","174",1003,349
+"146","040505","174",Oruro,Litoral,Esmeralda,"40505","178",2702,719
+"147","010402","175",Chuquisaca,Tomina,Tomina,"10402","11",8494,2113
+"148","050303","176",Potosi,Cornelio Saavedra,Tacobamba,"50303","209",11835,3897
+"149","050102","177",Potosi,Tomas Frias,Tinquipaya,"50102","200",27200,7545
+"150","050404","178",Potosi,Chayanta,Ocuri,"50404","213",16118,5093
+"151","010601","179",Chuquisaca,Yamparaez,Tarabuco,"10601","17",16944,4386
+"152","010301","180",Chuquisaca,Zudañez,Zudañez,"10301","6",11362,2586
+"153","040202","181",Oruro,Abaroa,Santuario de Quillacas,"40202","169",4051,1555
+"154","040802","182",Oruro,Ladislao Cabrera,Pampa Aullagas,"40802","185",2973,1040
+"155","041401","183",Oruro,Sebastian Pagador,Santiago de Huari,"41401","194",13897,4506
+"156","011001","184",Chuquisaca,Luis Calvo,Villa Vaca Guzmán (Muyupampa),"11001","27",9720,2532
+"157","010401","185",Chuquisaca,Tomina,Padilla,"10401","10",10383,2810
+"158","040602","186",Oruro,Poopo,Pazña,"40602","180",5955,2185
+"159","050401","187",Potosi,Chayanta,Colquechaca,"50401","210",35199,10650
+"160","050402","188",Potosi,Chayanta,Ravelo,"50402","211",20789,6564
+"161","041202","189",Oruro,Sur Carangas,Belén de Andamarca,"41202","192",2016,728
+"162","040901","190",Oruro,Sabaya,Sabaya,"40901","186",8018,2247
+"163","040503","191",Oruro,Litoral,Cruz de Machacamarca,"40503","176",1967,1558
+"164","040502","192",Oruro,Litoral,Escara,"40502","175",4223,1082
+"165","010303","193",Chuquisaca,Zudañez,Villa Mojocoya,"10303","8",8068,1982
+"166","070805","194",Santa Cruz,Valle Grande,Pucara,"70805","281",2076,635
+"167","010801","195",Chuquisaca,Belisario Boeto,Villa Serrano,"10801","23",11161,3196
+"168","040603","196",Oruro,Poopo,Antequera (Bolivar),"40603","181",3264,1158
+"169","050203","197",Potosi,Rafael Bustillo,Llallagua,"50203","205",41104,12409
+"170","070707","199",Santa Cruz,Cordillera,Boyuibe,"70707","276",5087,1013
+"171","070704","200",Santa Cruz,Cordillera,Cuevo,"70704","273",5052,1117
+"172","030404","226",Cochabamba,Esteban Arce,Sacabamba,"30404","127",4366,1473
+"173","030402","227",Cochabamba,Esteban Arce,Anzaldo,"30402","125",7192,2636
+"174","030802","228",Cochabamba,German Jordan,Toco,"30802","136",7057,2061
+"175","030401","237",Cochabamba,Esteban Arce,Tarata,"30401","124",8242,2593
+"176","031402","238",Cochabamba,Punata,Villa Rivero,"31402","157",8135,3042
+"177","031405","229",Cochabamba,Punata,Cuchumuela (V. G.Villarroel),"31405","160",2768,701
+"178","030801","239",Cochabamba,German Jordan,Cliza,"30801","135",21899,5960
+"179","030202","240",Cochabamba,Campero,Pasorapa,"30202","119",6853,1537
+"180","070803","241",Santa Cruz,Valle Grande,Moro Moro,"70803","279",2767,870
+"181","030602","242",Cochabamba,Arque,Tacopaya,"30602","131",10253,3337
+"182","040103","243",Oruro,Cercado,El Choro,"40103","166",8725,3261
+"183","041001","244",Oruro,Saucari,Toledo,"41001","189",10149,4331
+"184","040101","245",Oruro,Cercado,Oruro,"40101","164",264943,76724
+"185","041601","246",Oruro,Nor Carangas,Santiago de Huayllamarca,"41601","198",5502,2254
+"186","070105","247",Santa Cruz,Andres Ibañez,El Torno,"70105","254",49652,12235
+"187","030702","253",Cochabamba,Capinota,Santibañez,"30702","133",6527,2403
+"188","040104","254",Oruro,Cercado,Paria,"40104","167",12846,3460
+"189","041301","255",Oruro,San Pedro De Totora,San Pedro de Totora,"41301","193",5531,1886
+"190","021803","256",La Paz,Gualberto Villarroe,Chacarilla,"21803","112",2004,769
+"191","021005","310",La Paz,Inquisivi,Ichoca,"21005","83",7913,1695
+"192","021006","311",La Paz,Inquisivi,Licoma (Villa Libertad),"21006","84",5488,1021
+"193","021002","312",La Paz,Inquisivi,Quime,"21002","80",8266,3387
+"194","021003","313",La Paz,Inquisivi,Cajuata,"21003","81",10458,1662
+"195","020205","472",La Paz,Omasuyos,Santiago de Huata,"20205","39",8562,3797
+"196","040201","473",Oruro,Abaroa,Challapata,"40201","168",28304,9669
+"197","050201","474",Potosi,Rafael Bustillo,Uncía,"50201","203",22020,6620
+"198","070102","257",Santa Cruz,Andres Ibañez,Cotoca,"70102","251",45519,10241
+"199","040401","258",Oruro,Sajama,Curahuara de Carangas,"40401","172",4184,1335
+"200","071302","259",Santa Cruz,Manuel M. Caballero,Saipina,"71302","299",7390,1783
+"201","030201","260",Cochabamba,Campero,Aiquile,"30201","118",23267,6499
+"202","030203","261",Cochabamba,Campero,Omereque,"30203","120",5643,1434
+"203","030803","262",Cochabamba,German Jordan,Tolata,"30803","137",5542,1470
+"204","030403","263",Cochabamba,Esteban Arce,Arbieto,"30403","126",17445,5532
+"205","041101","264",Oruro,Tomas Barron,Eucaliptus,"41101","190",5267,1898
+"206","021802","265",La Paz,Gualberto Villarroe,Papel Pampa,"21802","111",7003,2429
+"207","020308","266",La Paz,Pacajes,Santiago de Callapa,"20308","48",7289,2790
+"208","021302","267",La Paz,Aroma,Umala,"21302","95",8903,3249
+"209","030101","268",Cochabamba,Cercado,Cochabamba,"30101","117",632013,177376
+"210","040102","269",Oruro,Cercado,Caracollo,"40102","165",23115,6690
+"211","071004","317",Santa Cruz,Obispo Santisteban,Fernandez Alonso,"71004","289",15117,3163
+"212","070601","318",Santa Cruz,Sara,Portachuelo,"70601","267",17885,4119
+"213","071003","319",Santa Cruz,Obispo Santisteban,Mineros,"71003","288",23251,5327
+"214","021902","270",La Paz,General Jose Manuel,Catacora,"21902","114",2881,736
+"215","070702","271",Santa Cruz,Cordillera,Charagua,"70702","271",32186,6289
+"216","070902","320",Santa Cruz,Florida,Pampa Grande,"70902","283",9198,2714
+"217","070903","321",Santa Cruz,Florida,Mairana,"70903","284",10177,2964
+"218","071301","322",Santa Cruz,Manuel M. Caballero,Comarapa,"71301","298",15919,4639
+"219","070401","323",Santa Cruz,Ichilo,Buena Vista,"70401","260",12879,3171
+"220","031206","324",Cochabamba,Carrasco,Entre Rios (Bulo Bulo),"31206","152",31550,12475
+"221","070402","325",Santa Cruz,Ichilo,San Carlos,"70402","261",20093,4573
+"222","070404","326",Santa Cruz,Ichilo,San Juan,"70404","263",9191,2055
+"223","031205","327",Cochabamba,Carrasco,Puerto Villarroel,"31205","151",46627,16951
+"224","071005","328",Santa Cruz,Obispo Santisteban,San Pedro,"71005","290",19103,3477
+"225","070603","272",Santa Cruz,Sara,Colpa Belgica,"70603","269",6069,1354
+"226","070103","273",Santa Cruz,Andres Ibañez,Porongo (Ayacucho),"70103","252",15317,3622
+"227","070101","274",Santa Cruz,Andres Ibañez,Santa Cruz de la Sierra,"70101","250",1454539,362877
+"228","071001","275",Santa Cruz,Obispo Santisteban,Montero,"71001","286",109518,26343
+"229","021301","276",La Paz,Aroma,Sica Sica,"21301","94",31312,9420
+"230","020903","277",La Paz,Loayza,Yaco,"20903","76",7315,2306
+"231","070602","329",Santa Cruz,Sara,Santa Rosa del Sara,"70602","268",19217,4978
+"232","020103","330",La Paz,Murillo,Mecapaca,"20103","32",16086,4838
+"233","020102","331",La Paz,Murillo,Palca,"20102","31",16622,4853
+"234","020104","332",La Paz,Murillo,Achocalla,"20104","33",22179,7085
+"235","020105","333",La Paz,Murillo,El Alto,"20105","34",848452,256852
+"236","021103","334",La Paz,Sur Yungas,Yanacachi,"21103","87",6420,2308
+"237","020306","278",La Paz,Pacajes,Waldo Ballivian,"20306","46",5069,1070
+"238","020303","279",La Paz,Pacajes,Calacoto,"20303","43",9879,3533
+"239","020305","280",La Paz,Pacajes,Charaña,"20305","45",3246,1159
+"240","030502","281",Cochabamba,Arani,Vacas,"30502","129",8940,3202
+"241","030501","282",Cochabamba,Arani,Arani,"30501","128",9504,3144
+"242","031401","283",Cochabamba,Punata,Punata,"31401","156",28887,8784
+"243","031203","284",Cochabamba,Carrasco,Pocona,"31203","149",10750,3544
+"244","031403","285",Cochabamba,Punata,San Benito,"31403","158",13562,3924
+"245","021305","286",La Paz,Aroma,Patacamaya,"21305","98",22858,7497
+"246","020301","287",La Paz,Pacajes,Coro Coro,"20301","41",10647,3740
+"247","021303","288",La Paz,Aroma,Ayo Ayo,"21303","96",7798,2823
+"248","021306","289",La Paz,Aroma,Colquencha,"21306","99",9879,3200
+"249","031202","290",Cochabamba,Carrasco,Pojo,"31202","148",10156,3003
+"250","021901","291",La Paz,General Jose Manuel,Santiago de Machaca,"21901","113",4593,1830
+"251","021102","335",La Paz,Sur Yungas,Irupana,"21102","86",17276,6499
+"252","021101","336",La Paz,Sur Yungas,Chulumani,"21101","85",17823,6079
+"253","031101","337",Cochabamba,Tapacari,Tapacarí,"31101","146",24625,8113
+"254","021001","338",La Paz,Inquisivi,Inquisivi,"21001","79",14717,4894
+"255","020805","339",La Paz,Ingavi,San Andrés de Machaca,"20805","71",4593,2391
+"256","020804","340",La Paz,Ingavi,Desaguadero,"20804","70",6987,2250
+"257","050202","475",Potosi,Rafael Bustillo,Chayanta,"50202","204",16129,4667
+"258","050403","476",Potosi,Chayanta,Pocoata,"50403","212",26330,8436
+"259","050204","477",Potosi,Rafael Bustillo,Chuquihuta,"50204","206",8019,2269
+"260","021202","314",La Paz,Los Andes,Laja,"21202","91",24531,7761
+"261","070502","315",Santa Cruz,Chiquitos,Pailón,"70502","265",37866,7182
+"262","070501","316",Santa Cruz,Chiquitos,San Jose de Chiquitos,"70501","264",28922,4566
+"263","020806","341",La Paz,Ingavi,Jesús de Machaca,"20806","72",15039,4967
+"264","020802","342",La Paz,Ingavi,Guaqui,"20802","68",7278,2731
+"265","020807","343",La Paz,Ingavi,Taraco,"20807","73",6603,1819
+"266","031003","478",Cochabamba,Chapare,Villa Tunari,"31003","145",71386,26725
+"267","031204","479",Cochabamba,Carrasco,Chimore,"31204","150",21736,7263
+"268","031201","480",Cochabamba,Carrasco,Totora,"31201","147",14665,4729
+"269","031601","481",Cochabamba,Tiraque,Tiraque,"31601","162",21231,6496
+"270","031602","482",Cochabamba,Tiraque,Shinahota,"31602","163",20841,7611
+"271","090103","483",Pando,Nicolas Suarez,Bolpebra (Mukden),"90103","327",2173,545
+"272","090203","484",Pando,Manuripi,Filadelfia,"90203","331",5756,1427
+"273","010902","489",Chuquisaca,Sud Cinti,Culpina,"10902","25",17731,4347
+"274","020803","361",La Paz,Ingavi,Tiahuanacu,"20803","69",12189,3594
+"275","021702","362",La Paz,Manco Kapac,San Pedro de Tiquina,"21702","108",6052,2467
+"276","010703","490",Chuquisaca,Nor Cinti,Incahuasi,"10703","21",13056,2779
+"277","021703","369",La Paz,Manco Kapac,Tito Yupanki,"21703","109",6261,1295
+"278","021701","370",La Paz,Manco Kapac,Copacabana,"21701","107",14931,5144
+"279","021204","373",La Paz,Los Andes,Puerto Perez,"21204","93",8157,2908
+"280","021201","384",La Paz,Los Andes,Pucarani,"21201","90",28465,10561
+"281","080101","417",Beni,Cercado,Trinidad,"80101","306",106596,24724
+"282","071105","418",Santa Cruz,Ñuflo De Chavez,San Antonio de Lomerio,"71105","295",6481,1146
+"283","071106","419",Santa Cruz,Ñuflo De Chavez,Cuatro Canadas,"71106","296",22845,5058
+"284","071103","420",Santa Cruz,Ñuflo De Chavez,San Ramón,"71103","293",7490,1685
+"285","071104","421",Santa Cruz,Ñuflo De Chavez,San Julián,"71104","294",47416,12767
+"286","020605","390",La Paz,Larecaja,Combaya,"20605","61",3731,994
+"287","020202","391",La Paz,Omasuyos,Ancoraimes,"20202","36",13136,5027
+"288","021401","392",La Paz,Nor Yungas,Coroico,"21401","101",19397,6996
+"289","021402","393",La Paz,Nor Yungas,Coripata,"21402","102",16930,5380
+"291","020403","395",La Paz,Camacho,Puerto Carabuco,"20403","51",14589,5347
+"292","020503","397",La Paz,Muñecas,Aucapata,"20503","56",5495,1938
+"293","071102","422",Santa Cruz,Ñuflo De Chavez,San Javier,"71102","292",13620,3185
+"294","080501","423",Beni,Moxos,San Ignacio,"80501","316",21114,4354
+"295","071201","424",Santa Cruz,Angel Sandoval,San Matías,"71201","297",14470,3215
+"296","070303","425",Santa Cruz,Velasco,San Rafael,"70303","259",6139,1139
+"297","070302","426",Santa Cruz,Velasco,San Miguel de Velasco,"70302","258",11327,2582
+"298","071502","427",Santa Cruz,Guarayos,Urubicha,"71502","304",7026,1182
+"299","020604","396",La Paz,Larecaja,Quiabaya,"20604","60",2684,1027
+"300","021105","402",La Paz,Sur Yungas,La Asunta,"21105","89",40178,13638
+"301","020402","403",La Paz,Camacho,Mocomoco,"20402","50",15665,6606
+"302","020501","404",La Paz,Muñecas,Chuma,"20501","54",11473,3938
+"303","020502","405",La Paz,Muñecas,Ayata,"20502","55",8410,2747
+"304","020603","406",La Paz,Larecaja,Tacacoma,"20603","59",8182,2980
+"305","071503","407",Santa Cruz,Guarayos,El Puente,"71503","305",14205,4461
+"306","080602","408",Beni,Marban,San Andrés,"80602","318",12503,2966
+"307","080601","409",Beni,Marban,Loreto,"80601","317",3828,864
+"308","020602","410",La Paz,Larecaja,Guanay,"20602","58",14788,4681
+"309","020608","411",La Paz,Larecaja,Teoponte,"20608","64",9349,3487
+"310","020607","412",La Paz,Larecaja,Mapiri,"20607","63",13891,4050
+"311","020606","398",La Paz,Larecaja,Tipuani,"20606","62",9985,3457
+"312","020101","399",La Paz,Murillo,Nuestra Señora de La Paz,"20101","30",766468,226458
+"313","020601","400",La Paz,Larecaja,Sorata,"20601","57",23512,8775
+"314","070403","401",Santa Cruz,Ichilo,Yapacaní,"70403","262",50558,2055
+"315","080102","435",Beni,Cercado,San Javier,"80102","307",5277,1230
+"316","080702","436",Beni,Mamore,San Ramón,"80702","320",4955,1160
+"317","080304","437",Beni,General Jose Balliv,Rurrenabaque,"80304","313",19195,4857
+"318","021502","438",La Paz,Abel Iturralde,San Buenaventura,"21502","104",8711,2005
+"319","080401","439",Beni,Yacuma,Santa Ana de Yacuma,"80401","314",18439,3712
+"320","080302","440",Beni,General Jose Balliv,San Borja,"80302","311",40864,9412
+"321","080301","441",Beni,General Jose Balliv,Reyes,"80301","310",13246,2962
+"322","021501","442",La Paz,Abel Iturralde,Ixiamas,"21501","103",9362,2270
+"323","090101","443",Pando,Nicolas Suarez,Cobija,"90101","325",46267,12304
+"324","020404","462",La Paz,Camacho,Humanata,"20404","52",5342,2108
+"325","090303","444",Pando,Madre De Dios,El Sena,"90303","334",8258,1653
+"326","090302","445",Pando,Madre De Dios,San Lorenzo,"90302","333",7652,1342
+"327","080303","446",Beni,General Jose Balliv,Santa Rosa,"80303","312",9478,1976
+"328","090301","447",Pando,Madre De Dios,Puerto Gonzales Moreno,"90301","332",8160,1026
+"329","080703","448",Beni,Mamore,Puerto Siles,"80703","321",945,195
+"330","080701","449",Beni,Mamore,San Joaquín,"80701","319",6917,1256
+"331","080402","450",Beni,Yacuma,Exaltacion,"80402","315",6362,938
+"332","080201","451",Beni,Vaca Diez,Riberalta,"80201","308",89022,19588
+"333","022002","485",La Paz,Caranavi,Alto Beni,"22002","116",11194,4210
+"334","022001","486",La Paz,Caranavi,Caranavi,"22001","115",50330,17021
+"335","010701","487",Chuquisaca,Nor Cinti,Camargo,"10701","19",15644,4325
+"336","010702","488",Chuquisaca,Nor Cinti,San Lucas,"10702","20",32520,8008
+"337","010704","491",Chuquisaca,Nor Cinti,Villa Charcas,"10704","22",16150,3475
+"338","020206","0",La Paz,Omasuyos,Huatajata,"20206","40",3927,1662
+"339","020203","0",La Paz,Omasuyos,Chua Cocani,"20203","37",5003,2032
+"340","020204","492",La Paz,Omasuyos,Huarina,"20204","38",7948,3297
+"341","021203","493",La Paz,Los Andes,Batallas,"21203","92",17426,6062
+"342","031501","223",Cochabamba,Bolivar,Bolivar,"31501","161",7279,2366
+"343","020201","0",La Paz,Omasuyos,Achacachi,"20201","35",46058,16228
