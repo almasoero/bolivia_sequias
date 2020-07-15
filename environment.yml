@@ -6,4 +6,5 @@ dependencies:
   - numpy=1.16.6
   - matplotlib=3.2.2*
   - python-dateutil
+  - rasterio
   - PILLOW=7.2.0
