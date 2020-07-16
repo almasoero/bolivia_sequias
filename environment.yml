@@ -7,4 +7,5 @@ dependencies:
   - matplotlib=3.2.2*
   - python-dateutil
   - rasterio
+  - rioxarray
   - PILLOW=7.2.0
