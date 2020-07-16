@@ -8,4 +8,5 @@ dependencies:
   - python-dateutil
   - rasterio
   - rioxarray
+  - descartes
   - PILLOW=7.2.0
